@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/mern-exercise-tracker-mongodb/static/js/main.5a61a44d.chunk.js",
+    "main.js.map": "/mern-exercise-tracker-mongodb/static/js/main.5a61a44d.chunk.js.map",
+    "runtime~main.js": "/mern-exercise-tracker-mongodb/static/js/runtime~main.41c79410.js",
+    "runtime~main.js.map": "/mern-exercise-tracker-mongodb/static/js/runtime~main.41c79410.js.map",
+    "static/css/2.89d568a6.chunk.css": "/mern-exercise-tracker-mongodb/static/css/2.89d568a6.chunk.css",
+    "static/js/2.4dfc0d50.chunk.js": "/mern-exercise-tracker-mongodb/static/js/2.4dfc0d50.chunk.js",
+    "static/js/2.4dfc0d50.chunk.js.map": "/mern-exercise-tracker-mongodb/static/js/2.4dfc0d50.chunk.js.map",
+    "index.html": "/mern-exercise-tracker-mongodb/index.html",
+    "precache-manifest.da62899871b3ca59ebe1d09d842cdd5b.js": "/mern-exercise-tracker-mongodb/precache-manifest.da62899871b3ca59ebe1d09d842cdd5b.js",
+    "service-worker.js": "/mern-exercise-tracker-mongodb/service-worker.js",
+    "static/css/2.89d568a6.chunk.css.map": "/mern-exercise-tracker-mongodb/static/css/2.89d568a6.chunk.css.map"
+  }
+}
